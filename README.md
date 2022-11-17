@@ -1,8 +1,8 @@
 # BS degree Thesis: Statistical Analysis and Modeling of a Randomized Clinical Trial to Evaluate Impact in Health of an Agave Prebiotic
 
-Here you will find my thesis work (spanish version) and the code used to analyze and propose a model. The code is divided in 3 essencial parts (P1, P2, and P3). Last part (P4) is only for experiment purposes. 
+Here you will find my thesis work (Spanish version) and the code used to analyze and propose a model. The code is divided into three essential parts (P1, P2 and P3). The last part (P4) is for experimental purposes only.
 
-**To run** the code, you will need to install an interpreter of R. 
+***To run*** the code, you will need to install an R interpreter. 
 
 There is an online version: https://rstudio.cloud/
 
